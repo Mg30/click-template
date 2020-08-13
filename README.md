@@ -1,5 +1,9 @@
-# Template project for CLI with chainable commands base on Click
+# Template project for CLI with chainable commands based on Click
 
+## Credits
+The code and folder structure are taken from :
+* https://click.palletsprojects.com/en/7.x/#documentation
+* https://github.com/pallets/click/tree/master/examples/imagepipe
 
 ## Requirements
 * Python 3.7 or greater
