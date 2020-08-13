@@ -1,0 +1,7 @@
+venv/
+cli.egg-info/
+**.csv
+dir/
+**__pycache__/
+**html
+**.ps1
